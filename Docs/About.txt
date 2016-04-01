@@ -1,0 +1,15 @@
+À propos de "Dr. Who vs. Daleks".
+
+
+Copyright Christian Droulers et Pier-Olivier Leclair 2006
+
+Programme débuté le 5 septembre 2006.
+
+Version 1.0 prête le 15 septembre 2006.
+Version 1.1 prête le 19 septembre 2006:	- HighScores maintenant fonctionnels
+					- Début de l'ajout de son WAV!
+
+Christian Droulers est le président de LMAOSoft Inc.
+Pier-Olivier Leclair est un esclave.
+
+^_^ kekekekekekek

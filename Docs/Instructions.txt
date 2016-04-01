@@ -1,0 +1,21 @@
+-----INSTRUCTIONS DE "DR.WHO VS DALEKS"-----
+
+But: Vous devez détruire tous les Daleks sans vous faire capturer.
+
+Comment tuer: Il y à deux façon de détruire un Dalek:
+              1. En le zappant, mais vous ne recevrez pas de crédits cosmiques lors de la destruction de ce Dalek.
+              2. En le faisant entrer en collision avec un autre Dalek ou avec un tas de féraille.
+
+Commandes: Les touches '1' à '9', à l'exception du 5, servent à déplacer votre Docteur.
+           Les touches '0' et 't' servent à vous téléporter aléatoirement, mais attention! Vous pourriez atterir sur un Dalek!
+           Les touches '.' et 'z' servent à zapper. Le zap détruit tout ce qui se trouve dans les cases adjacentes à lui-même.
+           La touche '-' sert à faire converger les Daleks vers vous jusqu'à ce qu'il y est un ou plusieurs Daleks se trouve sur une case adjacente au Docteur.
+           La touche '+' sert à faire converger les Daleks vers vous jusqu'à la fin de la round.
+
+Conseil: Protèger le Docteur comme si votre vie en dépendait!!!
+
+Vous pouvez changer la difficulté de facile à difficile avec le menu.
+
+Facile: Moins de daleks, mais moins d'argent, et 3 zaps par round.
+Normal: 5 Daleks, 5 crédits, 1 zap par round.
+Difficile: 10 Daleks, 10 crédits et 1 zap par round.
